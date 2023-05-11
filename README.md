@@ -54,6 +54,14 @@ Result: 32.0
 Result: 4.0
 ```
 
+## Configuration
+
+To go into debug mode, run:
+
+```shell
+cargo run +dbg
+```
+
 ## TODO
 
 - [x] Addition/Subtraction/Multiplication/Division
