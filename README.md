@@ -14,10 +14,10 @@ And that's it!
 
 ## Syntax
 
-<kbd>+</kbd>
-<kbd>-</kbd>
-<kbd>\*</kbd>
-<kbd>/</kbd>
+`+`
+`-`
+`\*`
+`/`
 
-<kbd>(</kbd>
-<kbd>)</kbd>
+`(`
+`)`
